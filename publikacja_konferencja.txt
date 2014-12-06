@@ -1,13 +1,13 @@
 Publikacja nr 1
 
 Tytu³: Publikacja o fizyce
-Autor: Aleksandra Pawlik i Janek Kowalski
+Autor: Stanis³aw Kowalski, Aleksandra Pawlik
 
 Abstrakt:
 Do napisania póŸniej
 
 Dane:
-Nasze wspolne dane
+Jeszcze ich nie ma. Generuj¹ siê.
 
 Analiza
 
@@ -15,3 +15,4 @@ Wnioski
 (to napisze Janek)
 
 Bibliografia
+.............
